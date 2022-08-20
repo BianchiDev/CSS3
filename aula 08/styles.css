@@ -1,13 +1,15 @@
 body{
     background-color: #17181c;
     font-family: sans-serif;
+    margin: 0;
 }
 .pulse{
     background: none;
     color: #ff760c;
     border: 2px solid;
-    margin: 50px;
+    margin: 0;
     padding: 15px 40px;
+    transform: 0.25s;
 }
 .pulse:hover, .pulse:focus{
     color: #fff;
